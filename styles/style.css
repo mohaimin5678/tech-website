@@ -1,0 +1,5 @@
+@media screen and (max-width:768px) {
+    .img-extend img {
+        width: 200%;
+    }
+}
