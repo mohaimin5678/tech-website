@@ -8,4 +8,8 @@
     .all-text-center {
         text-align: center;
     }
+
+    .visible-part {
+        display: none;
+    }
 }
