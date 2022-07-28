@@ -2,6 +2,14 @@
     .img-extend img {
         width: 200%;
     }
+
+    .text-resize {
+        font-size: medium;
+    }
+
+    .font-resize {
+        font-size: small;
+    }
 }
 
 @media screen and (max-width:992px) {
